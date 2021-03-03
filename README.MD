@@ -7,6 +7,7 @@
 BasicMessageChannel：用于传递字符串和半结构化的信息
 MethodChannel：用于传递方法调用（method invocation）
 EventChannel：用于数据流（event streams）的通信
+
 ![BinaryMessage.png](https://upload-images.jianshu.io/upload_images/2166188-c318a5cca08f9336.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### Flutter端对三种Channel的书写
