@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutterplugintemp (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutterplugintemp (from `.symlinks/plugins/flutterplugintemp/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutterplugintemp:
+    :path: ".symlinks/plugins/flutterplugintemp/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutterplugintemp: 000a537e958d7f19158c1f7d0f813d3710324842
+
+PODFILE CHECKSUM: f32fb4e7c14f8b3ca19a369d7be425dd9241af27
+
+COCOAPODS: 1.9.1
